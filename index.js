@@ -24,6 +24,13 @@ instance.prototype.CHOICES_INPUTS = [
 	{ id: '4', label: 'Still'}
 ]
 
+instance.prototype.CHOICES_INPUTSOURCES = [
+	{ id: '0', label: 'Input 1'},
+	{ id: '1', label: 'Input 2'},
+	{ id: '2', label: 'Input 3'},
+	{ id: '3', label: 'Input 4'}
+]
+
 instance.prototype.CHOICES_INPUT_TYPES = [
 	{ id: '0', label: 'SDI'},
 	{ id: '1', label: 'HDMI'},
@@ -365,7 +372,7 @@ instance.prototype.actions = function() {
 					label: 'Input Number',
 					id: 'inputnumber',
 					default: '0',
-					choices: self.CHOICES_INPUTS
+					choices: self.CHOICES_INPUTSOURCES
 				},
 				{
 					type: 'dropdown',
