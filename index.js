@@ -43,10 +43,9 @@ instance.prototype.CHOICES_AUXINPUTS = [
 	{ id: '1', label: 'Input 2'},
 	{ id: '2', label: 'Input 3'},
 	{ id: '3', label: 'Input 4'},
-	{ id: '4', label: 'Still'},
-	{ id: '5', label: 'PinP'},
-	{ id: '6', label: 'PinP/Key'},
-	{ id: '7', label: 'PGM'}
+	{ id: '4', label: 'PinP'},
+	{ id: '5', label: 'PinP/Key'},
+	{ id: '6', label: 'PGM'}
 ]
 
 instance.prototype.CHOICES_STILLS = [
