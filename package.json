@@ -2,7 +2,7 @@
   "name": "roland-vr50hd-mk2",
   "version": "1.0.0",
 	"api_version": "1.0.0",
-	"keywords": [ "Video Switcher" ],
+	"keywords": [ "Vision Mixer" ],
 	"manufacturer": "Roland",
 	"product": "VR-50HD MK II",
 	"shortname": "vr50hd",
