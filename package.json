@@ -1,12 +1,14 @@
 {
   "name": "roland-vr50hd-mk2",
-  "version": "1.0.0",
-	"api_version": "1.0.0",
-	"keywords": [ "Vision Mixer" ],
-	"manufacturer": "Roland",
-	"product": "VR-50HD MK II",
-	"shortname": "vr50hd",
-	"description": "",
+  "version": "1.0.1",
+  "api_version": "1.0.0",
+  "keywords": [
+    "Vision Mixer"
+  ],
+  "manufacturer": "Roland",
+  "product": "VR-50HD MK II",
+  "shortname": "vr50hd",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
